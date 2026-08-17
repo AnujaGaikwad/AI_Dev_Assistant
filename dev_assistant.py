@@ -1,6 +1,4 @@
 """
-Assignment 2 - AI-Powered Developer Workflow Assistant
-=======================================================
 Uses Groq API (free, fast, no quota issues)
 
 Requirements:
